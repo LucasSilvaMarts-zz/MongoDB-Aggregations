@@ -3,7 +3,7 @@
 # Sobre o projeto
 
 Neste projeto o desafio era utilizar métodos complexos de buscas no banco de dados MongoDB e criar pipelines
----
+
 
 # Habilidades
 Neste projeto você será capaz de:
