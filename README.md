@@ -6,7 +6,7 @@ Neste projeto o desafio era utilizar métodos complexos de buscas no banco de da
 
 
 # Habilidades
-Neste projeto você será capaz de:
+Neste projeto fui capaz de:
 - Executar buscas complexas no banco mongoDB
 - Usar os operadores de aggregation para fazer uma pipeline
 
