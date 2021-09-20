@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto de Aggregations!
 
 # Sobre o projeto
+
 Neste projeto o desafio era utilizar métodos complexos de buscas no banco de dados MongoDB e criar pipelines
 ---
 
